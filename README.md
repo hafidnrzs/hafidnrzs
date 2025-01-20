@@ -8,6 +8,8 @@
 - [Website](http://hafidnrzs.com/)
 - [Email](mailto:hafidnurazis@gmail.com)
 
+<!--
 ## 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hafidnrzs&theme=tokyonight&layout=compact)
+-->
